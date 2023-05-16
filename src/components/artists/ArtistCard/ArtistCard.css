@@ -1,0 +1,15 @@
+.details {
+    display: flex;
+    justify-content: space-between;
+}
+
+.details .description {
+    text-align: center;
+}
+
+.details img {
+    width: 100px;
+    height: 100px;
+}
+
+

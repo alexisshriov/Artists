@@ -1,0 +1,21 @@
+.info .footer {
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.info .description {
+    padding-left: 50px;
+}
+
+
+.info .header {
+    display: flex;
+}
+
+.info img {
+    width: 200px;
+    height: 200px;
+} 
+
+

@@ -1,0 +1,26 @@
+.button {
+	border-radius:4px;
+    cursor:pointer;
+    padding:6px 12px;
+    font-size:15px;
+    margin: 3px;
+    width: 150px;
+}
+
+.button.green-theme {
+	box-shadow: 0px 10px 14px -10px #3e7327;
+	background-color:#77b55a;
+	border:1px solid #4b8f29;
+	color:#ffffff;    
+	font-weight:bold;
+	text-shadow:0px 1px 0px #5b8a3c;
+}
+
+.button.red-theme  {
+    box-shadow: 0px 10px 14px -10px #e67a73;
+    background-color:#e4685d;
+    border:1px solid #d04c4c;
+    color:#ffffff;
+    font-weight:bold;
+    text-shadow:0px 1px 0px #b23e35;
+}
